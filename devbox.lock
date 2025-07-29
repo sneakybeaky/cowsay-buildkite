@@ -1,0 +1,77 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "cowsay@latest": {
+      "last_modified": "2025-07-13T22:45:35Z",
+      "resolved": "github:NixOS/nixpkgs/a421ac6595024edcfbb1ef950a3712b89161c359#cowsay",
+      "source": "devbox-search",
+      "version": "3.8.4",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/pn77pd3kpyd7v9s2y6k7ay3lqg2lk59d-cowsay-3.8.4",
+              "default": true
+            },
+            {
+              "name": "man",
+              "path": "/nix/store/9af7zaxdbn65a3h9sgrzx7y3w3dc536h-cowsay-3.8.4-man",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/pn77pd3kpyd7v9s2y6k7ay3lqg2lk59d-cowsay-3.8.4"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/zxhfw8xsyb0k2kxg11l80ipw9jy0ky25-cowsay-3.8.4",
+              "default": true
+            },
+            {
+              "name": "man",
+              "path": "/nix/store/49vnbr9i0srjn0jrs61bbk9p33ifb54z-cowsay-3.8.4-man",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/zxhfw8xsyb0k2kxg11l80ipw9jy0ky25-cowsay-3.8.4"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/bsf814876bp63p9fjjx5svlc1iyk1mw2-cowsay-3.8.4",
+              "default": true
+            },
+            {
+              "name": "man",
+              "path": "/nix/store/sxkp3lh8qfbfdk9mfjpjqhylcc5ydgsr-cowsay-3.8.4-man",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/bsf814876bp63p9fjjx5svlc1iyk1mw2-cowsay-3.8.4"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/6ki4q5d0ym1hcsjyl8pnsbgz1bc18x44-cowsay-3.8.4",
+              "default": true
+            },
+            {
+              "name": "man",
+              "path": "/nix/store/m36xna8rshlzrha2m70cb70c8g988gfs-cowsay-3.8.4-man",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/6ki4q5d0ym1hcsjyl8pnsbgz1bc18x44-cowsay-3.8.4"
+        }
+      }
+    },
+    "github:NixOS/nixpkgs/nixpkgs-unstable": {
+      "last_modified": "2025-07-25T08:26:56Z",
+      "resolved": "github:NixOS/nixpkgs/6027c30c8e9810896b92429f0092f624f7b1aace?lastModified=1753432016&narHash=sha256-cnL5WWn%2FxkZoyH%2F03NNUS7QgW5vI7D1i74g48qplCvg%3D"
+    }
+  }
+}
