@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 set -eo pipefail
 
 echo "--- :package: Build job checkout directory"
